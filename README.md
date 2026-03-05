@@ -1,6 +1,8 @@
 # Timetable for moodle+R
 
-[日本語版はこちら](https://github.com/reina314/timetable_for_moodle-R/blob/main/README_ja.md)
+v0.1.0
+
+[日本語版はこちら](https://github.com/reina314/timetable-for-moodle-R/blob/main/README_ja.md)
 
 An unofficial browser extension that enhances **moodle+R** by displaying your courses in a weekly timetable.
 
@@ -28,7 +30,7 @@ This project is **unofficial** and is **not affiliated with Moodle or Ritsumeika
 1.  Download or clone this repository:
 
 ```bash
-git clone https://github.com/reina314/timetable_for_moodle-R.git
+git clone https://github.com/reina314/timetable-for-moodle-R.git
 ```
 
 ## For Chrome
@@ -117,6 +119,7 @@ Project structure:
     ├── content.js
     ├── background.js
     ├── style.css
+    ├── README_ja.md
     └── README.md
 
 Main components:
