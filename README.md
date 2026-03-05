@@ -23,21 +23,32 @@ This project is **unofficial** and is **not affiliated with Moodle or Ritsumeika
 
 # Installation
 
-## Manual Installation (Firefox)
-
 1.  Download or clone this repository:
 
-```{=html}
-<!-- -->
+```bash
+git clone https://github.com/reina314/timetable_for_moodle-R.git
 ```
-    git clone https://github.com/yourusername/xx-univ-moodle-calendar.git
+
+## For Chrome
+
+2. Open Chrome and navigate to:
+
+```
+chrome://extensions
+```
+
+3. Toggle **Developer mode**
+4. Click **Load unpacked**
+5. Select the `manifest.json` file
+
+
+## For Firefox
 
 2.  Open Firefox and navigate to:
 
-```{=html}
-<!-- -->
 ```
-    about:debugging
+about:debugging
+```
 
 3.  Click **This Firefox**
 4.  Click **Load Temporary Add-on**
