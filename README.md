@@ -1,5 +1,7 @@
 # Timetable for moodle+R
 
+[日本語版はこちら](https://github.com/reina314/timetable_for_moodle-R/blob/main/README_ja.md)
+
 An unofficial browser extension that enhances **moodle+R** by displaying your courses in a weekly timetable.
 
 This extension is designed for students of **Ritsumeikan University** who use the university's Moodle instance (moodle+R).\
